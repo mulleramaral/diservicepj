@@ -1,0 +1,6 @@
+
+    </body>
+    <footer>
+        <p>Rodapé</p>
+    </footer>
+</html>

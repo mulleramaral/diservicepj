@@ -1,0 +1,9 @@
+{
+    "minimum-stability":"dev",
+    "require":{
+        "pimple/pimple":"*"
+    },
+    "autoload":{
+        "psr-0":{"muller":"src/"}
+    }
+}
