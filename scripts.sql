@@ -1,9 +1,9 @@
 CREATE DATABASE diservicepj;
-USE DATABASE diservicepj;
+USE diservicepj;
 CREATE TABLE fornecedores(
 id int auto_increment primary key,
 nome varchar(100),
-email varchar(20));
+email varchar(255));
 
 CREATE TABLE produtos(
 id int auto_increment primary key,
